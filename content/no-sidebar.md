@@ -8,6 +8,10 @@ content_img:
 sidebar:
   enabled: false
   side: left
+menu:
+  main:
+    name: Navjot Bal
+    weight: 4
 layout: page
 ---
 
