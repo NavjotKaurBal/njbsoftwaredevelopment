@@ -20,36 +20,7 @@ params:
         gradient2: '#6532e5'
 menu:
   footer: []
-  main:
-    - identifier: layouts
-      name: Page Layouts
-      url: '#'
-      weight: 2
-    - identifier: normal1
-      name: Left Sidebar
-      parent: layouts
-      url: /left-sidebar
-      weight: 1
-    - identifier: normal2
-      name: Right Sidebar
-      parent: layouts
-      url: /right-sidebar
-      weight: 2
-    - identifier: normal3
-      name: No Sidebar
-      parent: layouts
-      url: /no-sidebar
-      weight: 3
-    - identifier: submenu
-      name: Submenu
-      parent: layouts
-      url: '#'
-      weight: 4
-    - identifier: normal4
-      name: Option One
-      parent: submenu
-      url: '#'
-      weight: 1
+  main: []
 disableKinds:
   - RSS
   - taxonomy
