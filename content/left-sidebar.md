@@ -10,9 +10,9 @@ sidebar:
   side: left
 menu:
   layouts:
-    name: ''
+    name: Vision
   main:
-    name: ''
+    name: Vision
 layout: page
 ---
 
