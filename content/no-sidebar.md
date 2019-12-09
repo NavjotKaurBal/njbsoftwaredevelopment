@@ -1,9 +1,9 @@
 ---
 title: Strategies
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: ''
 content_img:
   enabled: true
-  path: /images/images-6-.jpg
+  path: /images/images-4-.jpg
   url: '#'
 sidebar:
   enabled: false
