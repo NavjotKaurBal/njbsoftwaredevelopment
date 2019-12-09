@@ -11,7 +11,7 @@ sidebar:
 menu:
   main:
     name: Strategies
-    weight: 2
+    weight: 3
 layout: page
 ---
 
