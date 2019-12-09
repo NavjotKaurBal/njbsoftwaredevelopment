@@ -1,9 +1,11 @@
 ---
 title: Vision
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: >-
+  The vision of my company is to offer new and different software's to customer
+  to rise the selling of android mobile phones.
 content_img:
   enabled: true
-  path: images/pic07.jpg
+  path: /images/home-graphic.png
   url: '#'
 sidebar:
   enabled: true
@@ -16,19 +18,10 @@ menu:
     weight: 2
 layout: page
 ---
+## What I have to do at the first stage
 
-### Dolore Amet Consequat
+At the very beginning I will open my own company in Toronto as well as hire more experienced software developers and designers who will help me to meet the goals of my company.
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
+## Estimation for future
 
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique.
-
-### Sed Magna Ornare
-
-In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus. Suspendisse euismod lorem eget lacinia fringilla. Sed sed felis justo. Nunc sodales elit in laoreet aliquam. Nam gravida, nisl sit amet iaculis porttitor, risus nisi rutrum metus.
-
-* Faucibus orci lobortis ac adipiscing integer.
-* Col accumsan arcu mi aliquet placerat.
-* Lobortis vestibulum ut magna tempor massa nascetur.
-* Blandit massa non blandit tempor interdum.
-* Lacinia mattis arcu nascetur lobortis.
+In future, after 4 or 5 years I will make a status of my company in the market , that the other companies wants to do work under my company.
