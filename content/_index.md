@@ -7,7 +7,7 @@ banner:
       is_scrolly: false
       label: Learn More
       url: /no-sidebar
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
+  subtitle: will always serve something different with new and unique ideas
   title: NJB Software Development
 sections:
   - component: features.html
