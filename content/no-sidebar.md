@@ -3,7 +3,7 @@ title: Strategies
 subtitle: ''
 content_img:
   enabled: true
-  path: /images/images-4-.jpg
+  path: /images/en875x.jpg
   url: '#'
 sidebar:
   enabled: false
