@@ -3,7 +3,7 @@ title: Strategies
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
 content_img:
   enabled: true
-  path: images/pic10.jpg
+  path: /images/images-6-.jpg
   url: '#'
 sidebar:
   enabled: false
@@ -14,19 +14,18 @@ menu:
     weight: 3
 layout: page
 ---
+**Approach Strategic**
 
-### Dolore Amet Consequat
+As we all know there are basically four common types of strategies, for our project we will use the low cost strategy. We will follow this strategy because the main motive of our project is to provide something new by adding new features into android mobile phones to users but not by increasing the price of mobile phones. If we will do any changes into its prices than definitely its sales will be effected that we don’t want.
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
+**Strategy that could be circulated to my employees and allies**
 
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique.
+According to me the best way to interact employees and allies to work within your project is to 
 
-### Sed Magna Ornare
+	Explain the plan of your project.
 
-In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus. Suspendisse euismod lorem eget lacinia fringilla. Sed sed felis justo. Nunc sodales elit in laoreet aliquam. Nam gravida, nisl sit amet iaculis porttitor, risus nisi rutrum metus.
+	Provide proper documentation of your project
 
-* Faucibus orci lobortis ac adipiscing integer.
-* Col accumsan arcu mi aliquet placerat.
-* Lobortis vestibulum ut magna tempor massa nascetur.
-* Blandit massa non blandit tempor interdum.
-* Lacinia mattis arcu nascetur lobortis.
+	Describe how it is different from other projects.
+
+	How it is beneficial in future.
