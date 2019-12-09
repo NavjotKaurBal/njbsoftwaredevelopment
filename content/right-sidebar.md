@@ -8,6 +8,9 @@ content_img:
 sidebar:
   enabled: true
   side: right
+menu:
+  layouts:
+    name: Vision
 layout: page
 ---
 
