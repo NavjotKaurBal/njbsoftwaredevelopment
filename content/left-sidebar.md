@@ -12,7 +12,8 @@ menu:
   layouts:
     name: ''
   main:
-    name: ''
+    name: Vision
+    weight: 4
 layout: page
 ---
 
