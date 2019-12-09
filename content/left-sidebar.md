@@ -13,7 +13,7 @@ menu:
     name: ''
   main:
     name: Vision
-    weight: 4
+    weight: 2
 layout: page
 ---
 
