@@ -1,5 +1,5 @@
 ---
-title: 'About NJB Company '
+title: Vision
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
 content_img:
   enabled: true
@@ -8,6 +8,9 @@ content_img:
 sidebar:
   enabled: true
   side: left
+menu:
+  layouts:
+    name: Vision
 layout: page
 ---
 
