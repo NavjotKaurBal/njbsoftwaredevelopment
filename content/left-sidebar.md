@@ -11,6 +11,8 @@ sidebar:
 menu:
   layouts:
     name: Vision
+  main:
+    name: Vision
 layout: page
 ---
 
