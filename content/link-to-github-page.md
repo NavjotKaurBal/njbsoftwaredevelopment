@@ -2,7 +2,7 @@
 title: Link to Github page
 content_img:
   enabled: false
-  url: '#'
+  url: 'https://github.com/NavjotKaurBal/IT.git'
 sidebar:
   enabled: false
   side: left
