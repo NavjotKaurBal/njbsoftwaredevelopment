@@ -12,7 +12,7 @@ menu:
   layouts:
     name: ''
   main:
-    name: ''
+    name: vision
 layout: page
 ---
 
