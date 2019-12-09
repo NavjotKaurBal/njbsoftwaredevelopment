@@ -1,5 +1,5 @@
 ---
-title: nosidebar
+title: Strategies
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
 content_img:
   enabled: true
@@ -10,8 +10,8 @@ sidebar:
   side: left
 menu:
   main:
-    name: Navjot Bal
-    weight: 4
+    name: Strategies
+    weight: 2
 layout: page
 ---
 
