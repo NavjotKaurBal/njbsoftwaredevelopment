@@ -11,8 +11,8 @@ subtitle: >-
   I will give 11% of my profit  every year to that person who will invest money
   in my company
 content_img:
-  enabled: false
-  path: /images/images-1-.jpg
+  enabled: true
+  path: /images/istockphoto-1096860416-1024x1024.jpg
   url: '#'
 sidebar:
   enabled: false
