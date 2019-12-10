@@ -2,7 +2,7 @@
 title: Github page
 subtitle: 'https://github.com'
 content_img:
-  enabled: false
+  enabled: true
   path: /images/1_afhtakhtkywd93-ugrttpw.png
   url: 'https://github.com'
 sidebar:
