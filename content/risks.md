@@ -5,7 +5,7 @@ subtitle: >-
   also have to ready to face the following risks
 content_img:
   enabled: true
-  path: /images/istockphoto-886772948-1024x1024.jpg
+  path: /images/istockphoto-698336830-1024x1024.jpg
   url: '#'
 sidebar:
   enabled: false
