@@ -1,5 +1,5 @@
 ---
-title: Github page
+title: Link to Github page
 subtitle: 'https://github.com/NavjotKaurBal/IT'
 content_img:
   enabled: true
@@ -10,7 +10,7 @@ sidebar:
   side: left
 menu:
   main:
-    name: Link to Github
+    name: Github Page
     weight: 7
 layout: page
 ---
