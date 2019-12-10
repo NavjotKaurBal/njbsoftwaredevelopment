@@ -1,10 +1,10 @@
 ---
 title: Github page
-subtitle: 'https://github.com'
+subtitle: 'https://github.com/NavjotKaurBal/IT'
 content_img:
   enabled: true
   path: /images/1_afhtakhtkywd93-ugrttpw.png
-  url: 'https://github.com'
+  url: ''
 sidebar:
   enabled: false
   side: left
