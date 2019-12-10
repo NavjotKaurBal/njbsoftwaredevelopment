@@ -10,6 +10,7 @@ sidebar:
   side: left
 menu:
   main:
+    name: Link to Github
     weight: 7
 layout: page
 ---
