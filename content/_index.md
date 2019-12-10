@@ -1,12 +1,7 @@
 ---
 title: home
 banner:
-  actions:
-    - is_huge: true
-      is_primary: false
-      is_scrolly: false
-      label: Learn More
-      url: /no-sidebar
+  actions: []
   subtitle: will always serve something different with new and unique ideas
   title: NJB Software Development
 sections:
