@@ -10,10 +10,9 @@ subtitle: >-
 
   I will give 11% of my profit  every year to that person who will invest money
   in my company
-   In future is i get more profit from my business than I will also increase the profit of investors
 content_img:
   enabled: false
-  path: /images/download-1-.jpg
+  path: /images/images-1-.jpg
   url: '#'
 sidebar:
   enabled: false
