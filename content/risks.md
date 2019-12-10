@@ -1,7 +1,7 @@
 ---
 title: Risks
 content_img:
-  enabled: false
+  enabled: true
   path: /images/istockphoto-698336830-1024x1024.jpg
   url: '#'
 sidebar:
