@@ -1,5 +1,8 @@
 ---
 title: Risks
+subtitle: >-
+  As we all know every project has different kind of  risks so for my project I
+  also have to ready to face the following risks
 content_img:
   enabled: true
   path: /images/istockphoto-698336830-1024x1024.jpg
@@ -16,8 +19,6 @@ menu:
     weight: 4
 layout: page
 ---
-As we all know every project has different kind of  risks so for my project I also have to ready to face the following risks
-
 **Technology risks**
 
 As technology is being advanced very fast during the development period there are chances that somebody else will be making same project by using more advanced features for that project
