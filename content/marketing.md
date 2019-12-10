@@ -2,7 +2,7 @@
 title: Marketing
 subtitle: The best way to reach to my customers
 content_img:
-  enabled: false
+  enabled: true
   path: /images/images-3-.jpg
   url: '#'
 sidebar:
