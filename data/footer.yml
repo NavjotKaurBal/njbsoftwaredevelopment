@@ -1,11 +1,12 @@
 about:
-  enabled: true
-  title: Visit Us
+  actions: []
+  enabled: false
+  text: ''
+  title: ''
 contact_methods:
-  enabled: true
-  methods_col1:
-    - text: asdf
-      title: sdf
-      type: contact_with_link
+  enabled: false
+  methods_col1: []
+  methods_col2: []
 copyright:
-  enabled: true
+  enabled: false
+  text: ''
