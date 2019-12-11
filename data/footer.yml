@@ -1,3 +1,7 @@
 about:
   enabled: true
   title: Visit Us
+contact_methods:
+  enabled: true
+copyright:
+  enabled: true
