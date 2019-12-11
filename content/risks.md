@@ -15,6 +15,7 @@ menu:
     name: Risks
     weight: 4
   main:
+    identifier: risk
     name: Risks
     weight: 4
 layout: page
