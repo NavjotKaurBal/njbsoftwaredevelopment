@@ -1,37 +1,3 @@
-
-
----------- Forwarded message ---------
-From: Mohamed Azarudeen. O <clickroshan19@gmail.com>
-Date: Wed, Dec 11, 2019 at 1:39 PM
-Subject:
-To: <manikandansaisai@gmail.com>
-
-
 about:
-  actions: []
   enabled: true
-  text: Visit our nearby store to know more about our product details and offers!
-  title: 'Visit Us:'
-contact_methods:
-  enabled: true
-  methods_col1:
-    - icon: fa-map-marker
-      text: |-
-        259 Wellington Street E,
-        Sault Ste Marie,
-        Ontario,  Canada.
-      title: Address
-      type: contact_with_text
-  methods_col2:
-    - icon: fa-phone
-      text: (705) 147-3210
-      title: Phone
-      type: contact_with_text
-    - icon: fa-envelope-o
-      text: info@foodmart.ca
-      title: Email
-      type: contact_with_link
-      url: '#'
-copyright:
-  enabled: true
-  text: ©Roshan. All Rights Reserved   |
+  title: Visit Us
