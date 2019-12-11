@@ -1,10 +1,10 @@
 ---
 title: njb
 content_img:
-  enabled: false
+  enabled: true
   url: '#'
 sidebar:
-  enabled: false
+  enabled: true
   side: left
 layout: page
 ---
