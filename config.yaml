@@ -2,7 +2,7 @@ title: NjB
 baseURL: /
 params:
   landing_template: home
-  palette: blue
+  palette: green
   palettes:
     blue:
       sass:
