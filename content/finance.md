@@ -19,6 +19,8 @@ sidebar:
   side: left
 menu:
   footer:
+    name: ''
+  layouts:
     name: Budget
   main:
     identifier: ''
