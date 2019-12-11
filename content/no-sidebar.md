@@ -10,6 +10,7 @@ sidebar:
   side: left
 menu:
   main:
+    identifier: strategies
     name: Strategies
     weight: 3
 layout: page
