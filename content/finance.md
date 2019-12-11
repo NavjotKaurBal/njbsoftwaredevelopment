@@ -21,7 +21,7 @@ menu:
   footer:
     name: ''
   layouts:
-    name: Budget
+    name: ''
   main:
     identifier: ''
     parent: ''
