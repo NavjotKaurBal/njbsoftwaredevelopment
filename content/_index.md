@@ -7,6 +7,7 @@ banner:
 sections: []
 menu:
   main:
+    identifier: home
     name: Home
     weight: 1
 layout: home
