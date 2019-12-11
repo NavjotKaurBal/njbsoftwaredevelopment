@@ -3,5 +3,9 @@ about:
   title: Visit Us
 contact_methods:
   enabled: true
+  methods_col1:
+    - text: asdf
+      title: sdf
+      type: contact_with_link
 copyright:
   enabled: true
