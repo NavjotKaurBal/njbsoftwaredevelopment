@@ -23,7 +23,8 @@ menu:
   layouts:
     name: ''
   main:
-    identifier: ''
+    identifier: finance
+    name: Finance
     parent: ''
     weight: 6
 layout: page
