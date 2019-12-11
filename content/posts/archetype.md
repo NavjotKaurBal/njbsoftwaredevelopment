@@ -1,5 +1,5 @@
 ---
-title: Archetype
+title: NjB
 content_img:
   enabled: false
   url: '#'
