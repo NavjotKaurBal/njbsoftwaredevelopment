@@ -1,21 +1,12 @@
 about:
   actions: []
-  enabled: true
+  enabled: false
   text: ''
   title: ''
 contact_methods:
-  enabled: true
+  enabled: false
   methods_col1: []
-  methods_col2:
-    - icon: fa-phone
-      text: (000) 000-0000
-      title: Phone
-      type: contact_with_text
-    - icon: fa-envelope-o
-      text: information@untitled.tld
-      title: Email
-      type: contact_with_link
-      url: '#'
+  methods_col2: []
 copyright:
-  enabled: true
+  enabled: false
   text: ''
